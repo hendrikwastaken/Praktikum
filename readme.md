@@ -63,12 +63,16 @@ Wichtige Hinweise für den Praktikanten:
 - Panda Dome ist eine **Antivirus-Lösung**.
 - Lernziel: Die Bedeutung von Antivirus-Software für die Systemsicherheit verstehen.
 
-## 12. Festplattenverschlüsselung: BitLocker aktivieren
+## 12. Passwort-Management: KeePass
+- KeePass ist ein **Passwort-Manager**.
+- Lernziel: Einführung in Passwort-Manager und starke Passwörter verstehen. 
+
+## 13. Festplattenverschlüsselung: BitLocker aktivieren
 
 - **BitLocker** ist Microsofts eingebautes Verschlüsselungstool.
 - Lernziel: Die Wichtigkeit der Datenverschlüsselung, besonders auf mobilen Geräten, verstehen.
 
-## 13-22. Verschiedene Software installieren
+## 14-22. Verschiedene Software installieren
 
 - **Microsoft Teams** (Kommunikations- und Kollaborationsplattform)
 

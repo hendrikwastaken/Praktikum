@@ -64,6 +64,7 @@ Wichtige Hinweise für den Praktikanten:
 - Lernziel: Die Bedeutung von Antivirus-Software für die Systemsicherheit verstehen.
 
 ## 12. Passwort-Management: KeePass
+
 - KeePass ist ein **Passwort-Manager**.
 - Lernziel: Einführung in Passwort-Manager und starke Passwörter verstehen. 
 

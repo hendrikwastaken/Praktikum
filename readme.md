@@ -1,6 +1,12 @@
 # IT-Einführung: Windows-Einrichtung für Praktikanten
 
-Willkommen in der IT-Welt! Diese Anleitung wird dir helfen, einen Windows-PC von Grund auf einzurichten. Jeder Schritt ist wichtig und trägt zu einem gut konfigurierten und sicheren System bei. Lass uns beginnen!
+Willkommen in der IT-Welt! Diese Anleitung wird dir helfen, einen Windows-PC von Grund auf einzurichten. Jeder Schritt ist wichtig und trägt zu einem gut konfigurierten und sicheren System bei.
+
+Wichtige Hinweise für den Praktikanten:
+1. Downloade Software immer von offiziellen Websites, um Sicherheitsrisiken zu vermeiden.
+2. Wenn du unsicher bist, frage immer einen erfahrenen Kollegen um Rat.
+3. Dokumentiere deine Schritte – das hilft dir, den Prozess besser zu verstehen und ist nützlich für zukünftige Aufgaben.
+4. Verstehe den Zweck jedes Schrittes. IT ist nicht nur das "Wie", sondern auch das "Warum".
 
 ## 1. Neuinstallation von Windows
 
@@ -96,11 +102,5 @@ Willkommen in der IT-Welt! Diese Anleitung wird dir helfen, einen Windows-PC von
 - Nutze den Befehl `tracert google.com` in der **Eingabeaufforderung**. 
 - Lernziel: Zeigt den Weg eines Pakets durch das Netzwerk an.
 
-
-Wichtige Hinweise für den Praktikanten:
-1. Downloade Software immer von offiziellen Websites, um Sicherheitsrisiken zu vermeiden.
-2. Wenn du unsicher bist, frage immer einen erfahrenen Kollegen um Rat.
-3. Dokumentiere deine Schritte – das hilft dir, den Prozess besser zu verstehen und ist nützlich für zukünftige Aufgaben.
-4. Verstehe den Zweck jedes Schrittes. IT ist nicht nur das "Wie", sondern auch das "Warum".
 
 Viel Erfolg bei deiner Einführung in die IT-Welt!

@@ -73,7 +73,12 @@ Wichtige Hinweise für den Praktikanten:
 - **BitLocker** ist Microsofts eingebautes Verschlüsselungstool.
 - Lernziel: Die Wichtigkeit der Datenverschlüsselung, besonders auf mobilen Geräten, verstehen.
 
-## 14-22. Verschiedene Software installieren
+## 14. Einführung in die Virtualisierung: Oracle Virtualbox 
+- Oracle Virtualbox ist eine Software zur **Erstellung und Verwaltung virtueller Maschinen**. 
+- Lade die ISO-Dateien für Ubuntu Server und fedora Server herunter. 
+- Lernziel: Die Bedeutung von Virtualisierung verstehen.
+
+## 15-22. Verschiedene Software installieren
 
 - **Microsoft Teams** (Kommunikations- und Kollaborationsplattform)
 
@@ -86,8 +91,6 @@ Wichtige Hinweise für den Praktikanten:
 - **PuTTy** (Wichtiges Tool für Admins, siehe SSH)
 
 - **Adobe Acrobat Reader** (PDF-Viewer)
-
-- **Oracle VirtualBox** (Virtualisierungssoftware)
 
 - **Veeam Agent for Microsoft Windows FREE** (Backup-Software)
 
